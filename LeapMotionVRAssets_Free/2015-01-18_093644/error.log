@@ -1,0 +1,36 @@
+Unity Player [version: Unity 4.6.1f1_d1db7a1b5196]
+
+OVRDisplay64.dll caused an Access Violation (0xc0000005)
+  in module OVRDisplay64.dll at 0033:ed016239.
+
+Error occurred at 2015-01-18_093644.
+C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks.exe, run by Nikhil Khanna.
+39% memory in use.
+8105 MB physical memory [4920 MB free].
+20905 MB paging file [17109 MB free].
+134217728 MB user address space [134217413 MB free].
+Read from location 0000006f caused an access violation.
+
+Context:
+RDI:    0x082e0a90  RSI: 0x0828a0f0  RAX:   0x00a96510
+RBX:    0x06055af0  RCX: 0x00a96310  RDX:   0x00000057
+RIP:    0xed016239  RBP: 0x00000000  SegCs: 0x00000033
+EFlags: 0x00010246  RSP: 0x008cefb8  SegSs: 0x0000002b
+R8:    0x00a96310  R9: 0x00000000  R10:   0xf3397008
+R11:    0x06055af0  R12: 0x00ab6e68  R13:   0x082c1a18
+R14:    0x00ab7440  R15: 0x00a70860
+
+Bytes at CS:EIP:
+48 8b 52 18 0f 1f 00 48 39 50 20 73 06 48 8b 40 Module 1
+C:\windows\SYSTEM32\xinput1_3.dll
+Image Base: 0x00400000  Image Size: 0x0001e000
+File Size:  107368      File Time:  2007-04-04_175422
+Version:
+   Company:    Microsoft Corporation
+   Product:    Microsoft® DirectX for Windows®
+   FileDesc:   Microsoft Common Controller API
+   FileVer:    9.18.944.0
+   ProdVer:    9.18.944.0
+
+
+== [end of error.log] ==

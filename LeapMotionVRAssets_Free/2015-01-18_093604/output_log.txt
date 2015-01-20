@@ -1,0 +1,112 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     4002 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Parse.Unity.dll (this message is harmless)
+Loading C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Managed\Parse.Unity.dll into Unity Child Domain
+- Completed reload, in  1.657 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free;C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Nikhil Khanna'
+OS-Version: 6.2.9200 () 0x300-0x1
+C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks.exe:MHacks.exe (00007FF693370000), size: 15609856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks.exe', fileVersion: 4.6.1.51269
+C:\windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE0B500000), size: 1728512 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.17278
+C:\windows\system32\KERNEL32.DLL:KERNEL32.DLL (00007FFE09C70000), size: 1286144 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\KERNEL32.DLL', fileVersion: 6.3.9600.17056
+C:\windows\system32\KERNELBASE.dll:KERNELBASE.dll (00007FFE079E0000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\KERNELBASE.dll', fileVersion: 6.3.9600.17278
+C:\windows\SYSTEM32\HID.DLL:HID.DLL (00007FFE06A20000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.16384
+C:\windows\system32\WS2_32.dll:WS2_32.dll (00007FFE0A440000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WS2_32.dll', fileVersion: 6.3.9600.16384
+C:\windows\system32\USER32.dll:USER32.dll (00007FFE096E0000), size: 1511424 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\USER32.dll', fileVersion: 6.3.9600.17344
+C:\windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFE051F0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.16384
+C:\windows\system32\ole32.dll:ole32.dll (00007FFE09AC0000), size: 1540096 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 6.3.9600.17042
+C:\windows\system32\SHLWAPI.dll:SHLWAPI.dll (00007FFE09310000), size: 331776 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SHLWAPI.dll', fileVersion: 6.3.9600.16384
+C:\windows\system32\ADVAPI32.dll:ADVAPI32.dll (00007FFE09A00000), size: 675840 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\ADVAPI32.dll', fileVersion: 6.3.9600.17031
+C:\windows\system32\GDI32.dll:GDI32.dll (00007FFE0A1B0000), size: 1327104 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\GDI32.dll', fileVersion: 6.3.9600.17246
+C:\windows\system32\SHELL32.dll:SHELL32.dll (00007FFE07F00000), size: 21032960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SHELL32.dll', fileVersion: 6.3.9600.17331
+C:\windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFDF5460000), size: 1183744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFE04440000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17078
+C:\windows\system32\OLEAUT32.dll:OLEAUT32.dll (00007FFE09370000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\OLEAUT32.dll', fileVersion: 6.3.9600.17403
+C:\windows\SYSTEM32\MSACM32.dll:MSACM32.dll (00007FFDF6020000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.16384
+C:\windows\system32\IMM32.dll:IMM32.dll (00007FFE096A0000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\IMM32.dll', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFE06E60000), size: 667648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17039
+C:\windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFE00FA0000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFDFC760000), size: 806912 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.16384
+C:\windows\system32\msvcrt.dll:msvcrt.dll (00007FFE0A100000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.9600.16384
+C:\windows\system32\NSI.dll:NSI.dll (00007FFE09AB0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\NSI.dll', fileVersion: 6.3.9600.16384
+C:\windows\system32\RPCRT4.dll:RPCRT4.dll (00007FFE09860000), size: 1273856 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\RPCRT4.dll', fileVersion: 6.3.9600.17216
+C:\windows\SYSTEM32\combase.dll:combase.dll (00007FFE09DB0000), size: 1925120 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\sechost.dll:sechost.dll (00007FFE099A0000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFDF50F0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\DDRAW.dll:DDRAW.dll (00007FFDF4FF0000), size: 999424 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFE04410000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17080
+C:\windows\system32\MSCTF.dll:MSCTF.dll (00007FFE0A300000), size: 1282048 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSCTF.dll', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (00007FFE00FD0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (00007FFDF5450000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (00007FFE07CD0000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (00007FFE06690000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.16384
+C:\Program Files (x86)\AVG\AVG2015\avghooka.dll:avghooka.dll (00007FFDF7420000), size: 561152 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Program Files (x86)\AVG\AVG2015\avghooka.dll', fileVersion: 15.0.0.5645
+C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Plugins\OculusPlugin.DLL:OculusPlugin.DLL (00007FFDE7650000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Plugins\OculusPlugin.DLL'
+C:\windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFE05630000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17201
+C:\windows\system32\SETUPAPI.dll:SETUPAPI.dll (00007FFE07D20000), size: 1916928 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SETUPAPI.dll', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFDFCB90000), size: 1605632 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.16520
+C:\windows\SYSTEM32\d3d9.dll:d3d9.dll (00007FFDFC270000), size: 2129920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\d3d9.dll', fileVersion: 6.3.9600.17095
+C:\windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFE05F80000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\dwmapi.dll', fileVersion: 6.3.9600.17238
+C:\windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFE05920000), size: 2129920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\d3d11.dll', fileVersion: 6.3.9600.17041
+C:\windows\SYSTEM32\d3d10core.dll:d3d10core.dll (00007FFDF34E0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\d3d10core.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\d3d10.dll:d3d10.dll (00007FFDF33A0000), size: 1269760 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\d3d10.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\OVRDisplayRT64.dll:OVRDisplayRT64.dll (00007FFDF3380000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\OVRDisplayRT64.dll', fileVersion: 1.2.2.0
+C:\windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FFDFD0C0000), size: 679936 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\MSVCP120.dll', fileVersion: 12.0.21005.1
+C:\windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FFDFCD20000), size: 978944 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\MSVCR120.dll', fileVersion: 12.0.21005.1
+C:\windows\SYSTEM32\shcore.dll:shcore.dll (00007FFE06150000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17238
+C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Mono\mono.dll:mono.dll (00007FFDE2670000), size: 2990080 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\MHacks_Data\Mono\mono.dll'
+C:\windows\system32\PSAPI.DLL:PSAPI.DLL (00007FFE094F0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\PSAPI.DLL', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFE07050000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFE066C0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFE07780000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFE07620000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.17120
+C:\windows\system32\uxtheme.dll:uxtheme.dll (00007FFE06540000), size: 1183744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\OVRDisplay64.dll:OVRDisplay64.dll (00007FFDED010000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\OVRDisplay64.dll', fileVersion: 1.2.2.0
+C:\windows\SYSTEM32\nvwgf2umx.dll:nvwgf2umx.dll (00007FFDE14B0000), size: 18550784 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\nvwgf2umx.dll', fileVersion: 9.18.13.4709
+C:\windows\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFE072F0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\bcrypt.dll', fileVersion: 6.3.9600.17031
+C:\windows\system32\nvspcap64.dll:nvspcap64.dll (0000000180000000), size: 2846720 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\nvspcap64.dll', fileVersion: 16.18.9.0
+C:\windows\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (00007FFE054D0000), size: 401408 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\wdmaud.drv:wdmaud.drv (00007FFDE7030000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\ksuser.dll:ksuser.dll (00007FFE01070000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\AVRT.dll:AVRT.dll (00007FFE056B0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFDF9DF0000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17393
+C:\windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FFE077B0000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\powrprof.dll', fileVersion: 6.3.9600.17031
+C:\windows\SYSTEM32\msacm32.drv:msacm32.drv (00007FFDF64A0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\midimap.dll:midimap.dll (00007FFDF5AF0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\dsound.dll:dsound.dll (00007FFDE6D60000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\clbcatq.dll:clbcatq.dll (00007FFE09440000), size: 671744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.16384
+C:\windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (00000000084B0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\windows\SYSTEM32\igd10iumd64.dll:igd10iumd64.dll (00007FFE01C70000), size: 27283456 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\igd10iumd64.dll', fileVersion: 10.18.10.3540
+C:\windows\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFE072C0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\ncrypt.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFE07280000), size: 237568 (result: 0), SymType: '-nosymbols-', PDB: 'C:\windows\SYSTEM32\NTASN1.dll', fileVersion: 6.3.9600.16384
+C:\windows\SYSTEM32\igdusc64.dll:igdusc64.dll (00007FFE04AB0000), size: 4571136 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\igdusc64.dll', fileVersion: 10.18.10.3540
+C:\windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFE075F0000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.16408
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x00007FFDED016239) (OVRDisplay64): (filename not available): (function-name not available) + 0x0
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

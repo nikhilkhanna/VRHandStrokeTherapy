@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Frisbee.cs">
+    <Files>
+      <File FileName="Assets\Score.cs" Line="17" Column="1" />
+      <File FileName="Assets\ElbowROM.cs" Line="287" Column="41" />
+      <File FileName="Assets\ElbowExerciseInstructions.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Downloads\JointOrientation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Frisbee.cs" Line="27" Column="16" />
+      <File FileName="Assets\WristExerciseInstructions.cs" Line="1" Column="1" />
+      <File FileName="Assets\JointOrientationLower.cs" Line="1" Column="1" />
+      <File FileName="Assets\Arms.cs" Line="1" Column="1" />
+      <File FileName="Assets\JointOrientationUpper.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionWidgets\Scripts\Scroll\ScrollContentBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\InputEmail.cs" Line="1" Column="1" />
+      <File FileName="Assets\InputPassword.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\Assets\ElbowROM.cs" line="158" />
+      <Breakpoint file="C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\Assets\Frisbee.cs" line="78" />
+      <Breakpoint file="C:\Users\Nikhil Khanna\Documents\GitHub\VRHandStrokeTherapy\LeapMotionVRAssets_Free\Assets\Frisbee.cs" line="73" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
